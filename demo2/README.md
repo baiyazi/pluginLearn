@@ -6,6 +6,7 @@
 
 - [Android插件化开发指南——Hook技术（一）【长文】_梦否-CSDN博客](https://blog.csdn.net/qq_26460841/article/details/121497914)
 - [Android插件化开发指南——Hook技术（二）_梦否-CSDN博客](https://blog.csdn.net/qq_26460841/article/details/121568093)
+- [Android插件化开发指南——Hook技术（三）版本适配问题_梦否-CSDN博客](https://blog.csdn.net/qq_26460841/article/details/121577356)
 
 
 
